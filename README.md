@@ -1,7 +1,7 @@
 ## Welcome 👋
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1677442d019cecf8d69f4cc9e3daf1f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80" alt="AI Engineering" width="1000" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);"/>
+  <img src="https://images.unsplash.com/photo-1677442d019cecf8d69f4cc9e3daf1f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80" alt="AI Engineering" width="1000" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
 </p>
 
 <h3 align="center">Senior AI & Machine Learning Engineer</h3>
@@ -10,7 +10,7 @@
 
 ### About Me
 
-I'm a results-driven AI engineer with deep expertise in **Agentic AI systems**, **machine learning architecture**, and **enterprise-scale AI development**. Passionate about building intelligent systems that solve complex real-world problems.
+I'm a results-driven AI engineer with deep expertise in **Agentic AI systems**, **machine learning architecture**, and **enterprise-scale AI development**. Passionate about building intelligent systems that solve real-world problems at scale.
 
 - 🔭 **Currently Building:** Advanced agentic AI frameworks and autonomous agent systems
 - 🧠 **Specializing in:** LLM applications, multi-agent systems, computer vision, and data pipeline optimization
